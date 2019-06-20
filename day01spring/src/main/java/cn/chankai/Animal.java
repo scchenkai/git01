@@ -9,7 +9,7 @@ public class Animal {
     private String age;
 
     /**
-     * 构造函数没有返回值,方法我是git恒信
+     * 构造函数没有返回值,方法我是g
      * @param name
      * @param age
      */
