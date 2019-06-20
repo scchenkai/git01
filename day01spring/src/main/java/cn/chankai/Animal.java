@@ -9,7 +9,7 @@ public class Animal {
     private String age;
 
     /**
-     * 构造函数没有返回值,方法名和类名相同
+     * 构造函数没有返回值,方法
      * @param name
      * @param age
      */
