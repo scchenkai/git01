@@ -10,7 +10,14 @@ public class GitTest {
 
         System.out.println("我是hello分支,即将合并到master");
 
+        System.out.println("路漫漫而修远兮");
+
+        System.out.println("提交回退测试");
+
 
         System.out.println("好烦");
+
+        System.out.println("测试回退02");
+
     }
 }
