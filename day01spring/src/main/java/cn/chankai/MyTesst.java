@@ -12,6 +12,8 @@ public class MyTesst {
 
         Integer i = 10;
 
+        System.out.println("git测试");
+
         //测试集合能不能装基础数据类型
         ArrayList<Object> objects = new ArrayList<>();
         objects.add(1);     //这里能放进去是因为自动装箱
