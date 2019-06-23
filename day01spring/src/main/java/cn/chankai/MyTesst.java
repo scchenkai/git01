@@ -9,9 +9,10 @@ public class MyTesst {
     public static void main(String[] args) {
         Round1 round1 = Round1.getInstance();
         Round1 instance = Round1.getInstance();
-        System.out.println(round1 == instance);
 
         Integer i = 10;
+
+        System.out.println("git测试");
 
         //测试集合能不能装基础数据类型
         ArrayList<Object> objects = new ArrayList<>();
