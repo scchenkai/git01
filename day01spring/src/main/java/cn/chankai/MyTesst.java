@@ -9,7 +9,6 @@ public class MyTesst {
     public static void main(String[] args) {
         Round1 round1 = Round1.getInstance();
         Round1 instance = Round1.getInstance();
-        System.out.println(round1 == instance);
 
         Integer i = 10;
 
