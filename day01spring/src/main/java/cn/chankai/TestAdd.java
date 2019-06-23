@@ -13,6 +13,12 @@ public class TestAdd {
 
         System.out.println("测试提交03");
 
+        System.out.println("patch");
+
+        System.out.println("patch02");
+
+        System.out.println("测试reset 06");
+
 
 
     }
