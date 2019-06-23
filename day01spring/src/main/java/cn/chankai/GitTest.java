@@ -9,5 +9,8 @@ public class GitTest {
         System.out.println("测试不commit能否提交远程仓库");
 
         System.out.println("我是hello分支,即将合并到master");
+
+
+        System.out.println("好烦");
     }
 }
