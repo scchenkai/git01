@@ -20,7 +20,7 @@ public class Git {
 
         System.out.println("what is local changes?? yes , I know it");
 
-        System.out.println("");
+        System.out.println("测试代码冲突");
         
         
     }
