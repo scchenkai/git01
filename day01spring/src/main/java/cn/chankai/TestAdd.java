@@ -22,5 +22,8 @@ public class TestAdd {
 
 
         System.out.println("测试delete");
+
+        System.out.println("测试分支新建");
+
     }
 }
