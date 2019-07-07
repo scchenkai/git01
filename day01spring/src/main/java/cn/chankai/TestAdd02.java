@@ -6,5 +6,7 @@ public class TestAdd02 {
         System.out.println("测试commit");
 
         System.out.println("年后啊");
+
+        System.out.println("你好啊");
     }
 }
