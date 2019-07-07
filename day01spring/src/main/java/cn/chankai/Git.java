@@ -9,5 +9,9 @@ public class Git {
         System.out.println("git 可以使用patch补丁");
 
         System.out.println("annotate 是当前作者注释和time");
+
+        System.out.println("show current version 是当前版本信息");
+
+        System.out.println("测试快捷键提交ctrl + alt + k");
     }
 }
