@@ -22,6 +22,8 @@ public class Git {
 
         System.out.println("测试代码冲突");
         
+        System.out.println("啦啦啦,我是github修改,我来测试code conflict");
+        
         
     }
 }
