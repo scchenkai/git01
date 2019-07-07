@@ -19,5 +19,10 @@ public class GitTest {
 
         System.out.println("测试回退02");
 
+        System.out.println("测试提交01");
+
+        System.out.println("测试提交02");
+
+
     }
 }
