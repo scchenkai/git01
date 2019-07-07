@@ -13,5 +13,9 @@ public class Git {
         System.out.println("show current version 是当前版本信息");
 
         System.out.println("测试快捷键提交ctrl + alt + k");
+
+        System.out.println("show history 是当前提交历史");
+
+        System.out.println("");
     }
 }
